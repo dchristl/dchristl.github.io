@@ -2,5 +2,4 @@ theme: jekyll-theme-hacker
 plugins:
   - jekyll-seo-tag
   
-author:
-  twitter: benbalter
+author: dchristl
